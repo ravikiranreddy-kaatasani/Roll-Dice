@@ -122,4 +122,4 @@ latest position:                          2
 ```               
 
 #### Contributors
-[Uday Kiran Boyapati](https://github.com/udaykiran-boyapati), [Ravi Kiran Redy Kaatasani] (https://github.com/ravikiranreddy-kaatasani), [Sathish Kumar Kamshettigari](https://github.com/sathishpatel20276), [Hruday Varma Dantuluri](https://github.com/), [Shivani Kotla](https://github.com/), [Anvitha Chinthapanti](https://github.com/), [Subhan Shaik](https://github.com/Shaik-Subhan) have contributed to this project.
+[Uday Kiran Boyapati](https://github.com/udaykiran-boyapati), [Ravi Kiran Reddy Kaatasani] (https://github.com/ravikiranreddy-kaatasani), [Sathish Kumar Kamshettigari](https://github.com/sathishpatel20276), [Hruday Varma Dantuluri](https://github.com/), [Shivani Kotla](https://github.com/), [Anvitha Chinthapanti](https://github.com/), [Subhan Shaik](https://github.com/Shaik-Subhan) have contributed to this project.
