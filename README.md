@@ -3,7 +3,7 @@
 ## About
 - Roll Dice is a program to roll dices specified in a simple and intuitive way.
 - Dice are used in many games of chance as a way of picking random numbers on which to bet, and are used in board or role-playing games to determine the number of spaces to move, results of a conflict, etc. 
-- The most common type of die is a six-sided cube with the numbers 1-6 placed on the faces. The value of the roll is indicated by the number of "spots" showing on the top. For the six-sided die, opposite faces are arranged to always sum to seven.
+- The most common type of die is a six-sided cube with the numbers 1-6 placed on the faces. The value of the roll is indicated by the number showing on the top. For the six-sided die, opposite faces are arranged to always sum to seven.
 - This gives two possible mirror image arrangements in which the numbers 1, 2, and 3 may be arranged in a clockwise or counterclockwise order about a corner.
 
 ## Input
