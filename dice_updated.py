@@ -1,13 +1,13 @@
 #Random is a built-in module that can be used to make random numbers.
 import random
-#In a cube,every number has its own opposite number
+#In a dice,every number has its own opposite number
 values=[[1,6],[2,5],[3,4]]
 #for loop to shuffle numbers of a nested list
 for value in values:
     random.shuffle(value)
 #To shuffle the lists inside the list
 random.shuffle(values)
-#Assign values
+#Assigning the values
 front=values[0][0]
 back=values[0][1]
 top=values[1][0]
